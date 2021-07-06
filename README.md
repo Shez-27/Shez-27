@@ -1,5 +1,6 @@
 Hi there 👋
-I am a final year student of Master’s in Data Science with a bachelors in Computer Science. 
+
+I am a final year student of Master’s in Data Science with a bachelors degree in Computer Science. 
 I have a good hold on Data science and Data Analysis. 
 
 - 🔭 I’m currently working on projects related to Data Science, Data Analytics and Machine Learning.
